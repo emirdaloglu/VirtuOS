@@ -30,11 +30,13 @@ It is designed for educational purposes to demonstrate OS principles in a modula
 ## How to Run
 1. Ensure you have Python 3 installed (no external dependencies required).
 2. Open a terminal and navigate to the project directory.
-3. Run the main program:
+3. Run the main GUI program:
    ```
-   python3 main.py
+   python3 gui.py
    ```
-4. Follow the interactive menu to explore all OS components.
+4. The VirtuOS graphical interface will launch. Use the tabs and buttons to explore all OS components.
+
+(Optional: You can also run the original text-based version with `python3 main.py`, but the GUI is the primary interface.)
 
 ## Example Usage
 - Create and manage processes with different schedulers
